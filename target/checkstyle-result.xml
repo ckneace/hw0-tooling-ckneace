@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Users\cknea\IdeaProjects\HW0\src\main\java\hangman\Main.java">
+<error line="7" severity="warning" message="Wrong lexicographical order for &apos;java.util.Iterator&apos; import. Should be before &apos;org.slf4j.LoggerFactory&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="8" severity="warning" message="Wrong lexicographical order for &apos;java.util.Set&apos; import. Should be before &apos;org.slf4j.LoggerFactory&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="12" severity="warning" message="Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 13." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+</file>
+</checkstyle>
